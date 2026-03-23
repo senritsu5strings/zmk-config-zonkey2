@@ -16,6 +16,6 @@ manifest:
       revision: main
     - name: zmk-rgbled-widget  # <-- new entry
       url: https://github.com/caksoylar/zmk-rgbled-widget
-      revision: V0.3.0
+      revision: v0.3.0
   self:
     path: config
